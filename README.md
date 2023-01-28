@@ -1,4 +1,4 @@
-# Maquina de aprendizaje (Machine learning)
+# SQL
 
 ## Syllabus
 * 
