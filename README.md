@@ -1,16 +1,19 @@
-### Hi there 👋
+# Maquina de aprendizaje (Machine learning)
 
-<!--
-**Xavier-ML/Xavier-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Syllabus
+* 
 
-Here are some ideas to get you started:
+## libros
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Revistas, link e información adicional de R
+* 
+
+## Enlaces de data set
+* 
+
+## Cursos Online
+*
+
+## Revistas de investigación y papers
+* 
